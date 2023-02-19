@@ -1,0 +1,4 @@
+Todo 
+fix bugged collider ok
+fix end condition ok
+add video bonus Esperar o povo
