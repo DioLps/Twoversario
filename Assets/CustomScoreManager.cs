@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class CustomScoreManager : MonoBehaviour
 {
     [SerializeField]
-    private static int maxIndex = 5;
+    private static int maxIndex = 9;
 
     public static int index = 0;
     private static TMP_Text textMeshPro;
